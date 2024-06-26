@@ -1,6 +1,7 @@
 ![average_first_flowering_time](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d046a84f-d237-4f3a-bde6-60feac1f2c4e)
 ![first_flowering_time_5c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/233de099-51aa-4abf-b18a-1dfb275f6242)
 ![first_flowering_time_10c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/2cf4f38d-3b59-429a-a14c-5d6d9cbaff3c)
+![first_flowering_time_distribution](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d7ffc3a9-6237-4482-9478-961b7b8b25e1)
 
 Analysis based on the three images:
 
