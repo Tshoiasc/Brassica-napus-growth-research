@@ -1,6 +1,29 @@
 ![average_first_flowering_time](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d046a84f-d237-4f3a-bde6-60feac1f2c4e)
+
+From the box plot, we can observe that:
+
+- Some genotypes such as Rapid_Cycling_Rape_CrGC5 and SWU_Chinese_1 showed earlier flowering time.
+- While genotypes such as LEMBKES_MALCHOWER_LENORA and POH_285_Bolko showed later flowering time.
+
+This difference reflects the different responsiveness of different genotypes to temperature and photoperiod. Early-flowering genotypes may have a faster growth cycle and be suitable for short-season planting, while late-flowering genotypes may be more suitable for long-season planting and have a longer vegetative growth period.
+
 ![first_flowering_time_5c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/233de099-51aa-4abf-b18a-1dfb275f6242)
+
+From this figure, we can observe:
+
+- Some genotypes such as MADRIGAL_x_RECITAL_DH_LINE and Express showed taller inflorescences.
+- While genotypes such as Liho and RAPID_CYCLING_RAPE_CrGC5 showed shorter inflorescences.
+
+This height difference may reflect different growth strategies of different genotypes. Taller plants may be more advantageous for light capture and pollination, but they may also require more resource investment; shorter plants may be more adapted to certain environmental conditions, such as windy areas.
+
 ![first_flowering_time_10c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/2cf4f38d-3b59-429a-a14c-5d6d9cbaff3c)
+
+From this figure, we can observe:
+
+- Some genotypes such as SLAPSKA_SLAPY and ABUKUMA_NATANE showed longer flowering periods.
+- While genotypes such as Rocket and Quinta showed shorter flowering periods.
+
+The length of the flowering period may affect pollination efficiency and seed yield. Genotypes with longer flowering periods may have an advantage in unstable environments as they have more opportunities for pollination. On the other hand, genotypes with shorter flowering periods may be more suitable for completing their life cycle quickly in stable environments.
 
 Analysis based on the three images:
 
