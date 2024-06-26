@@ -9,4 +9,8 @@ The images were collected over a six week period, usually on a daily basis.
 71 genotypes, two treatments, three replicates; total 426 plants.
 1×top view image, 3×side view images (000, 045 & 090° rotations).
 
+Example:
+
+<img width="440" alt="image" src="https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/51d4b5ed-56e3-427a-a530-984576fed75b">
+
 This dataset is used to train the neural network model for simulating the growth of rapeseed plants. The data annotation adopts a hierarchical recursive method based on the biological growth characteristics of rapeseed:
