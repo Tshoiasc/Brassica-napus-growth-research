@@ -17,6 +17,7 @@ From this figure, we can observe:
 This height difference may reflect different growth strategies of different genotypes. Taller plants may be more advantageous for light capture and pollination, but they may also require more resource investment; shorter plants may be more adapted to certain environmental conditions, such as windy areas.
 
 ![first_flowering_time_10c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/2cf4f38d-3b59-429a-a14c-5d6d9cbaff3c)
+![first_flowering_time_distribution](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d7ffc3a9-6237-4482-9478-961b7b8b25e1)
 
 From this figure, we can observe:
 
