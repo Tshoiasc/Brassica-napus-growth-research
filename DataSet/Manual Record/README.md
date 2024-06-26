@@ -1,6 +1,6 @@
-![image](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/a027c7d1-70c7-4ea9-91a4-306c4a63cb8b)
-![image](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/8e648adb-6439-47de-a645-9b757951c18f)
-![image](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/bd509ac1-663f-4b9e-b82b-d5fa1471e768)
+![average_first_flowering_time](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d046a84f-d237-4f3a-bde6-60feac1f2c4e)
+![first_flowering_time_5c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/233de099-51aa-4abf-b18a-1dfb275f6242)
+![first_flowering_time_10c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/2cf4f38d-3b59-429a-a14c-5d6d9cbaff3c)
 
 Based on these three images, we can conduct the following biological analysis on the flowering time characteristics of different rapeseed genotypes:
 
