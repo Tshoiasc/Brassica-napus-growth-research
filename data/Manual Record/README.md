@@ -17,7 +17,6 @@ From this figure, we can observe:
 This height difference may reflect different growth strategies of different genotypes. Taller plants may be more advantageous for light capture and pollination, but they may also require more resource investment; shorter plants may be more adapted to certain environmental conditions, such as windy areas.
 
 ![first_flowering_time_10c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/2cf4f38d-3b59-429a-a14c-5d6d9cbaff3c)
-![first_flowering_time_distribution](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d7ffc3a9-6237-4482-9478-961b7b8b25e1)
 
 From this figure, we can observe:
 
@@ -26,14 +25,27 @@ From this figure, we can observe:
 
 The length of the flowering period may affect pollination efficiency and seed yield. Genotypes with longer flowering periods may have an advantage in unstable environments as they have more opportunities for pollination. On the other hand, genotypes with shorter flowering periods may be more suitable for completing their life cycle quickly in stable environments.
 
+![first_flowering_time_distribution](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d7ffc3a9-6237-4482-9478-961b7b8b25e1)
+
+From this figure, we can observe:
+
+- Some genotypes such as LEMBKES_MALCHOWER_LENORA and SLAPSKA_SLAPY showed significant delay in flowering time at 10°C (ratio greater than 1).
+- While genotypes such as SWU_Chinese_1 and Zhouyou showed earlier flowering time at 10°C (ratio less than 1).
+
+This difference in temperature responsiveness reflects the different sensitivity of different genotypes to vernalization. Genotypes with strong response to temperature changes may be more suitable for planting in areas with large temperature variations, while genotypes with less pronounced response may be more suitable for temperature-stable environments.
+
 Analysis based on the three images:
 
-| Analysis | Description |
-|----------|-------------|
-| Differences between genotypes | As can be seen from Figure 1, there are significant differences in the average flowering time of different genotypes. For example, genotypes such as RAPID_CYCLING_RAPE_CrGC5, Liho, and SWU_Chinese_1 show earlier flowering times (about 70-80 days), while genotypes such as LEMBKES_MALCHOWER_LENORA, SLAPSKA_SLAPY, and POH_285_Bolko show later flowering times (more than 100 days). This difference reflects the genetic variation of different genotypes in growth cycle and environmental adaptability. |
-| Temperature response | Comparing Figure 2 (5°C) and Figure 3 (10°C), it can be found that the flowering time of most genotypes is slightly delayed at higher temperatures. This phenomenon may be related to vernalization. At 5°C, the flowering time of many genotypes was concentrated between 85 and 95 days, while at 10°C, the distribution of flowering time was more dispersed, and some genotypes even delayed flowering to after 100 days. |
-| Temperature sensitivity | Different genotypes have different degrees of sensitivity to temperature changes. For example, LEMBKES_MALCHOWER_LENORA showed significant flowering delay when the temperature increased, while some genotypes such as Liho and SWU_Chinese_1 had relatively stable flowering times at both temperatures. This difference reflects the different vernalization requirements among genotypes. |
-| Degree of variation | As can be seen from the box plots in Figures 2 and 3, some genotypes (such as SLAPSKA_SLAPY and POH_285_Bolko) showed large flowering time variation under the same temperature conditions, while other genotypes (such as Express and Canberra_x_Courage_DH_LINE) showed more consistent performance. This variation may reflect genetic diversity within the genotype or sensitivity to microenvironmental changes. |
-| Ecological adaptability | Early flowering genotypes (such as RAPID_CYCLING_RAPE_CrGC5) may be more suitable for short growing seasons or rapid rotation systems, while late flowering genotypes (such as LEMBKES_MALCHOWER_LENORA) may be more suitable for long growing seasons or environments requiring long-term vegetative growth. This diversity provides room for selection in different climates and agricultural systems. |
-| Breeding potential | These data reveal the rich genetic diversity of rapeseed genotypes in flowering time, providing valuable resources for breeding work. For example, early flowering genotypes can be used to breed varieties adapted to short seasons, or genotypes that are insensitive to temperature can be used to breed varieties with wider adaptability. |
-| Impact of climate change | The effect of temperature on flowering time suggests that climate change may have an important impact on the crop growth cycle. Understanding the temperature response characteristics of different genotypes will help predict and respond to the impact of future climate change on agricultural production. |
+| Observation Point | Description |
+|-------------------|-------------|
+| 1. Overall distribution of flowering time | - Mean flowering time of most genotypes concentrated between 80-100 days<br>- Some genotypes like RAPID_CYCLING_RAPE_CrGC5 and Liho show earlier flowering time (about 70-80 days) at both temperatures<br>- LEMBKES_MALCHOWER_LENORA and SLAPSKA_SLAPY show significantly delayed flowering time (more than 100 days)<br>- Reflects wide genetic variation of rapeseed genotypes in growth cycle and environmental adaptability |
+| 2. Diversity of temperature response | - Most genotypes have a slight delay in flowering time under 10°C conditions<br>- LEMBKES_MALCHOWER_LENORA shows greater delay and variation at 10°C<br>- SWU_Chinese_1 and Zhouyou performed relatively stably at both temperatures<br>- Reflects different vernalization requirements and regulatory mechanisms to cope with temperature changes |
+| 3. Intra-population variation | - Variation within the same genotype observed<br>- POH_285_Bolko showed large intra-population variation at 10°C<br>- May arise from genetic diversity or high sensitivity to microenvironmental changes |
+| 4. Temperature sensitivity | - Genotypes like Ningyou_7 and Zhongshuang_II show large differences in flowering time distribution at two temperatures<br>- Indicates high sensitivity to temperature changes<br>- Valuable trait for breeding, especially in context of climate change |
+| 5. Stable genotypes | - Genotypes like Express and Canberra_x_Courage_DH_LINE showed consistent flowering time distribution under both temperature conditions<br>- Valuable trait for crops grown in areas with large temperature fluctuations |
+| 6. Extreme phenotypes | - LEMBKES_MALCHOWER_LENORA showed extremely late flowering individuals (about 130 days) under 10°C conditions<br>- May have special research value for understanding flowering time regulation mechanisms |
+| 7. Ecological adaptability indication | - Early flowering and stable genotypes may suit agricultural systems with short growing seasons or rapid crop rotation<br>- Late flowering or temperature-sensitive genotypes may suit long growing seasons or specific climatic conditions |
+| 8. Inference of vernalization requirements | - Genotypes flowering significantly earlier at 5°C than at 10°C may have stronger vernalization requirement<br>- Those performing similarly at both temperatures may have weaker or no vernalization requirement |
+| 9. Breeding potential assessment | - Data provides rich information for breeding work<br>- Early-maturing and stable genotypes can be selected for short season adaptation<br>- Temperature-sensitive genotypes can be used for specific climatic condition adaptation |
+| 10. Genotype classification | - Early-maturing types (e.g., RAPID_CYCLING_RAPE_CrGC5)<br>- Late-maturing types (e.g., LEMBKES_MALCHOWER_LENORA)<br>- Temperature-sensitive types (e.g., Ningyou_7)<br>- Temperature-stable types (e.g., Express)<br>- Classification guides future research and breeding work |
+| 11. Potential molecular mechanisms | - Observed phenotypic differences likely reflect variations in underlying molecular mechanisms<br>- May involve expression regulation of flowering hormone genes (e.g., FLC, FT)<br>- Could include variations in sensing pathways of photoperiod and temperature<br>- Provides direction for further molecular biology research |
