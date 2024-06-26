@@ -9,9 +9,4 @@ The images were collected over a six week period, usually on a daily basis.
 71 genotypes, two treatments, three replicates; total 426 plants.
 1×top view image, 3×side view images (000, 045 & 090° rotations).
 
-A standard, modern archival tool such as 7-Zip is required to extract the zip files
-Date made available                         24 Mar 2023
-PublisherPrifysgol                 Aberystwyth | Aberystwyth University
-Date of data production                 06 Jun 2018 - 17 Jul 2018
-
 This dataset is used to train the neural network model for simulating the growth of rapeseed plants. The data annotation adopts a hierarchical recursive method based on the biological growth characteristics of rapeseed:
