@@ -18,16 +18,16 @@ Like the structure below:
 
 So the data structure like below:
 
-stem    
-├── branch_1    
-│   ├── branch_2    
-│   │   └── branch_3 (if available)    
-│   ├── branch_2    
-│   └── ...    
-├── branch_1    
-│   ├── branch_2    
-│   └── ...    
-└── ...    
+ stem    
+  ├── branch_1    
+  │   ├── branch_2    
+  │   │   └── branch_3 (if available)    
+  │   ├── branch_2    
+  │   └── ...    
+  ├── branch_1    
+  │   ├── branch_2    
+  │   └── ...    
+  └── ...    
 
 
 Finally, a tree structure is formed, branch_1 belongs to stem, branch_2 belongs to branch_1, and so on.
