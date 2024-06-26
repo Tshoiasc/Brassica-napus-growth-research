@@ -18,17 +18,16 @@ Like the structure below:
 
 So the data structure like below:
 
- stem    
-	│── branch_1    
-	│　　　　│── branch_2    
-	│　　　　│　　　　│── branch_3 (if available)    
-	│　　　　│── branch_2    
-	│　　　　│── ...    
-	│── branch_1    
-	│　　　　│── branch_2    
-	│　　　　│── ...    
-	│── ...    
-
+　stem    
+　　│── branch_1    
+　　│　　　　│── branch_2    
+　　│　　　　│　　　　│── branch_3 (if available)    
+　　│　　　　│── branch_2    
+　　│　　　　│── ...    
+　　│── branch_1    
+　　│　　　　│── branch_2    
+　　│　　　　│── ...    
+　　│── ...    
 
 Finally, a tree structure is formed, branch_1 belongs to stem, branch_2 belongs to branch_1, and so on.
 This annotation method can accurately reflect the branching structure of rapeseed plants and provide structured training data for subsequent neural network modeling. The annotation data is stored in JSON format, including image information, key point coordinates and their hierarchical relationships.
