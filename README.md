@@ -29,6 +29,7 @@ stem
 │   └── ...
 └── ...
 
+
 Finally, a tree structure is formed, branch_1 belongs to stem, branch_2 belongs to branch_1, and so on.
 This annotation method can accurately reflect the branching structure of rapeseed plants and provide structured training data for subsequent neural network modeling. The annotation data is stored in JSON format, including image information, key point coordinates and their hierarchical relationships.
 
