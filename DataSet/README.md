@@ -13,4 +13,4 @@ Example:
 
 <img width="440" alt="image" src="https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/51d4b5ed-56e3-427a-a530-984576fed75b">
 
-This dataset is used to train the neural network model for simulating the growth of rapeseed plants. The data annotation adopts a hierarchical recursive method based on the biological growth characteristics of rapeseed:
+This dataset is used to train the neural network model for simulating the growth of rapeseed plants. The data annotation adopts a hierarchical recursive method based on the biological growth characteristics of rapeseed.
