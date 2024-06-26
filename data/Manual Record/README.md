@@ -2,7 +2,7 @@
 ![first_flowering_time_5c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/233de099-51aa-4abf-b18a-1dfb275f6242)
 ![first_flowering_time_10c](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/2cf4f38d-3b59-429a-a14c-5d6d9cbaff3c)
 
-Based on these three images, we can conduct the following biological analysis on the flowering time characteristics of different rapeseed genotypes:
+Analysis based on the three images:
 
 | Analysis | Description |
 |----------|-------------|
@@ -13,5 +13,3 @@ Based on these three images, we can conduct the following biological analysis on
 | Ecological adaptability | Early flowering genotypes (such as RAPID_CYCLING_RAPE_CrGC5) may be more suitable for short growing seasons or rapid rotation systems, while late flowering genotypes (such as LEMBKES_MALCHOWER_LENORA) may be more suitable for long growing seasons or environments requiring long-term vegetative growth. This diversity provides room for selection in different climates and agricultural systems. |
 | Breeding potential | These data reveal the rich genetic diversity of rapeseed genotypes in flowering time, providing valuable resources for breeding work. For example, early flowering genotypes can be used to breed varieties adapted to short seasons, or genotypes that are insensitive to temperature can be used to breed varieties with wider adaptability. |
 | Impact of climate change | The effect of temperature on flowering time suggests that climate change may have an important impact on the crop growth cycle. Understanding the temperature response characteristics of different genotypes will help predict and respond to the impact of future climate change on agricultural production. |
-
-Overall, these data show the rich diversity of rapeseed genotypes in flowering time characteristics, reflecting its potential in adapting to different environmental conditions. This diversity not only provides valuable research materials for understanding the regulatory mechanisms of plant growth and development, but also provides a basis for targeted breeding for different ecological environments and agricultural needs.
