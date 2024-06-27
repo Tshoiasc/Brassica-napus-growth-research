@@ -1,3 +1,25 @@
+<img width="424" alt="image" src="https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/320a434f-5e6f-4f42-bb94-2ad8e6900e8b">
+
+Temperature has a significant impact on plant growth
+
+
+R02_mean_rate、R03_max_rate、R10_max_height
+
+5℃>10℃
+
+Different genotype has different reaction to temperature.
+
+<img width="404" alt="image" src="https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/85b493a0-3dd1-4547-8316-477dfe43088b">
+
+![image](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/684b24d8-1528-4168-8bfa-f559a9f15241)
+
+![image](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/5078c4d3-b74d-4920-b58c-f472f4fb998e)
+
+
+![image](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/010068de-aefc-41aa-9a36-dfe148a6be5f)
+
+
+
 ![average_first_flowering_time](https://github.com/Tshoiasc/Brassica-napus-growth-research/assets/30382941/d046a84f-d237-4f3a-bde6-60feac1f2c4e)
 
 From the box plot, we can observe that:
