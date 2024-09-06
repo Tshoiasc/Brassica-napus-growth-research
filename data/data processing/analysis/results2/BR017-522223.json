@@ -1,0 +1,1144 @@
+{
+    "sv-000": [
+        {
+            "image_name": "BR017-522223-2018-06-07_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-07_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-08_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-08_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-09_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-09_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-10_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-10_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-11_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-11_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-12_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-12_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-13_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-13_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-15_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-15_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-16_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-16_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-17_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-17_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-18_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-18_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-19_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-19_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-20_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-20_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-21_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-21_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-22_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-22_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-23_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-23_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-25_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-25_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-28_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-28_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-30_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-06-30_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-01_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-01_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-02_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-02_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-03_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-03_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-05_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-05_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-06_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-06_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-07_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-07_00_VIS_sv_000-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-09_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-09_00_VIS_sv_000-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            300.4556884765625,
+                            489.4598388671875,
+                            310.1312255859375,
+                            494.7777099609375
+                        ]
+                    ],
+                    "conf": [
+                        0.2871544361114502
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-13_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-13_00_VIS_sv_000-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            279.7612609863281,
+                            342.5745849609375,
+                            301.8739929199219,
+                            352.847900390625
+                        ]
+                    ],
+                    "conf": [
+                        0.7398837804794312
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            310.30364990234375,
+                            430.91265869140625,
+                            324.64581298828125,
+                            438.57696533203125
+                        ]
+                    ],
+                    "conf": [
+                        0.6876803040504456
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            302.1309814453125,
+                            353.342041015625,
+                            309.4610595703125,
+                            358.56201171875
+                        ]
+                    ],
+                    "conf": [
+                        0.2776694893836975
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-16_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-16_00_VIS_sv_000-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            309.15484619140625,
+                            368.95660400390625,
+                            330.85809326171875,
+                            378.75067138671875
+                        ]
+                    ],
+                    "conf": [
+                        0.7168598771095276
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            276.8538818359375,
+                            257.59405517578125,
+                            298.818603515625,
+                            267.90899658203125
+                        ]
+                    ],
+                    "conf": [
+                        0.6121873259544373
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            272.96875,
+                            403.46923828125,
+                            289.8203125,
+                            413.103271484375
+                        ]
+                    ],
+                    "conf": [
+                        0.5445907711982727
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-24_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-24_00_VIS_sv_000-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            296.31964111328125,
+                            191.59756469726562,
+                            310.72186279296875,
+                            199.33432006835938
+                        ]
+                    ],
+                    "conf": [
+                        0.6834685206413269
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            325.08184814453125,
+                            206.4742431640625,
+                            339.11273193359375,
+                            213.3734130859375
+                        ]
+                    ],
+                    "conf": [
+                        0.6763132810592651
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            287.96832275390625,
+                            66.67121887207031,
+                            302.00067138671875,
+                            74.16865539550781
+                        ]
+                    ],
+                    "conf": [
+                        0.6659408807754517
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-25_00_VIS_sv_000-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-000/BR017-522223-2018-07-25_00_VIS_sv_000-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            352.056640625,
+                            193.9927215576172,
+                            365.31182861328125,
+                            200.84117126464844
+                        ]
+                    ],
+                    "conf": [
+                        0.6743385195732117
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            275.52996826171875,
+                            171.19137573242188,
+                            289.40887451171875,
+                            178.37222290039062
+                        ]
+                    ],
+                    "conf": [
+                        0.6722010970115662
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            310.5677490234375,
+                            59.441680908203125,
+                            325.311767578125,
+                            67.44891357421875
+                        ]
+                    ],
+                    "conf": [
+                        0.5074974894523621
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "sv-045": [
+        {
+            "image_name": "BR017-522223-2018-06-07_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-07_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-08_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-08_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-09_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-09_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-10_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-10_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-11_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-11_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-12_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-12_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-13_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-13_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-15_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-15_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-16_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-16_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-17_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-17_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-18_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-18_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-19_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-19_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-20_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-20_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-21_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-21_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-22_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-22_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-23_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-23_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-25_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-25_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-28_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-28_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-30_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-06-30_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-01_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-01_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-02_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-02_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-03_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-03_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-05_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-05_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-06_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-06_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-07_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-07_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-09_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-09_00_VIS_sv_045-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-13_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-13_00_VIS_sv_045-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            296.4474792480469,
+                            343.0642395019531,
+                            316.7607727050781,
+                            353.3106384277344
+                        ]
+                    ],
+                    "conf": [
+                        0.7326668500900269
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            320.4735107421875,
+                            432.13946533203125,
+                            332.0244140625,
+                            438.63775634765625
+                        ]
+                    ],
+                    "conf": [
+                        0.6791200637817383
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            289.9950866699219,
+                            462.97442626953125,
+                            300.2991638183594,
+                            471.56561279296875
+                        ]
+                    ],
+                    "conf": [
+                        0.44978874921798706
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-16_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-16_00_VIS_sv_045-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            311.6163635253906,
+                            369.55889892578125,
+                            334.7945251464844,
+                            380.01300048828125
+                        ]
+                    ],
+                    "conf": [
+                        0.7378386855125427
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            271.615478515625,
+                            402.115966796875,
+                            292.3670654296875,
+                            414.9254150390625
+                        ]
+                    ],
+                    "conf": [
+                        0.7053182125091553
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            298.1581726074219,
+                            257.6089172363281,
+                            313.8930358886719,
+                            266.1017150878906
+                        ]
+                    ],
+                    "conf": [
+                        0.629069447517395
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            295.2931823730469,
+                            258.20404052734375,
+                            314.4137268066406,
+                            267.24749755859375
+                        ]
+                    ],
+                    "conf": [
+                        0.2876565754413605
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-24_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-24_00_VIS_sv_045-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            300.3509826660156,
+                            191.61131286621094,
+                            313.9862365722656,
+                            198.9059600830078
+                        ]
+                    ],
+                    "conf": [
+                        0.7656843662261963
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            327.65704345703125,
+                            66.54768371582031,
+                            344.72088623046875,
+                            75.72752380371094
+                        ]
+                    ],
+                    "conf": [
+                        0.6725592017173767
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            351.94012451171875,
+                            204.16651916503906,
+                            366.02362060546875,
+                            212.55812072753906
+                        ]
+                    ],
+                    "conf": [
+                        0.45535144209861755
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-25_00_VIS_sv_045-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-045/BR017-522223-2018-07-25_00_VIS_sv_045-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            365.67816162109375,
+                            55.01891326904297,
+                            380.7576904296875,
+                            63.02227783203125
+                        ]
+                    ],
+                    "conf": [
+                        0.7463316917419434
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            374.817138671875,
+                            189.85397338867188,
+                            391.3233642578125,
+                            199.24758911132812
+                        ]
+                    ],
+                    "conf": [
+                        0.7414612770080566
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            272.52606201171875,
+                            172.03408813476562,
+                            287.97064208984375,
+                            180.61911010742188
+                        ]
+                    ],
+                    "conf": [
+                        0.43214038014411926
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "sv-090": [
+        {
+            "image_name": "BR017-522223-2018-06-07_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-07_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-08_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-08_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-09_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-09_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-10_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-10_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-11_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-11_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-12_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-12_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-13_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-13_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-15_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-15_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-16_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-16_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-17_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-17_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-18_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-18_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-19_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-19_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-20_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-20_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-21_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-21_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-22_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-22_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-23_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-23_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-25_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-25_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-28_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-28_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-06-30_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-06-30_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-01_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-01_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-02_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-02_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-03_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-03_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-05_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-05_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-06_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-06_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-07_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-07_00_VIS_sv_090-0-0-0.png",
+            "predictions": []
+        },
+        {
+            "image_name": "BR017-522223-2018-07-09_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-09_00_VIS_sv_090-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            306.482666015625,
+                            490.0821533203125,
+                            316.8687744140625,
+                            495.6163330078125
+                        ]
+                    ],
+                    "conf": [
+                        0.6199392080307007
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-13_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-13_00_VIS_sv_090-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            312.5698547363281,
+                            342.5242004394531,
+                            333.6525573730469,
+                            352.7739562988281
+                        ]
+                    ],
+                    "conf": [
+                        0.7705236673355103
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            311.47650146484375,
+                            431.64630126953125,
+                            324.9951171875,
+                            438.97723388671875
+                        ]
+                    ],
+                    "conf": [
+                        0.6864097714424133
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            191.00396728515625,
+                            490.5537109375,
+                            206.0374755859375,
+                            505.595458984375
+                        ]
+                    ],
+                    "conf": [
+                        0.29850664734840393
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            199.965576171875,
+                            486.19854736328125,
+                            221.880615234375,
+                            501.54034423828125
+                        ]
+                    ],
+                    "conf": [
+                        0.27273696660995483
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            480.5410461425781,
+                            549.2066650390625,
+                            491.6126403808594,
+                            556.9754638671875
+                        ]
+                    ],
+                    "conf": [
+                        0.27132299542427063
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            191.87905883789062,
+                            489.68621826171875,
+                            211.14651489257812,
+                            505.68988037109375
+                        ]
+                    ],
+                    "conf": [
+                        0.2598625719547272
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-16_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-16_00_VIS_sv_090-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            300.05230712890625,
+                            369.27960205078125,
+                            319.61724853515625,
+                            377.84130859375
+                        ]
+                    ],
+                    "conf": [
+                        0.7761826515197754
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            308.572265625,
+                            257.1475524902344,
+                            332.4676513671875,
+                            268.9410705566406
+                        ]
+                    ],
+                    "conf": [
+                        0.7396791577339172
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            284.8790283203125,
+                            402.5057373046875,
+                            305.8685302734375,
+                            414.1014404296875
+                        ]
+                    ],
+                    "conf": [
+                        0.7021980881690979
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-24_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-24_00_VIS_sv_090-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            350.9600830078125,
+                            201.51974487304688,
+                            364.8721923828125,
+                            209.51998901367188
+                        ]
+                    ],
+                    "conf": [
+                        0.732486367225647
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            306.08050537109375,
+                            191.4036865234375,
+                            319.18597412109375,
+                            199.73248291015625
+                        ]
+                    ],
+                    "conf": [
+                        0.7169579863548279
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            355.8182373046875,
+                            62.78367614746094,
+                            367.72314453125,
+                            69.42488098144531
+                        ]
+                    ],
+                    "conf": [
+                        0.7166333794593811
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "BR017-522223-2018-07-25_00_VIS_sv_090-0-0-0.png",
+            "image_path": "/root/autodl-fs/dataset/BR017-522223/sv-090/BR017-522223-2018-07-25_00_VIS_sv_090-0-0-0.png",
+            "predictions": [
+                {
+                    "boxes": [
+                        [
+                            286.2059326171875,
+                            174.03536987304688,
+                            300.4896240234375,
+                            181.98971557617188
+                        ]
+                    ],
+                    "conf": [
+                        0.7113580107688904
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            354.04864501953125,
+                            186.40733337402344,
+                            367.63287353515625,
+                            193.9267120361328
+                        ]
+                    ],
+                    "conf": [
+                        0.7039507627487183
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                },
+                {
+                    "boxes": [
+                        [
+                            388.064697265625,
+                            48.34156036376953,
+                            402.2724609375,
+                            55.544105529785156
+                        ]
+                    ],
+                    "conf": [
+                        0.6947782635688782
+                    ],
+                    "cls": [
+                        0.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

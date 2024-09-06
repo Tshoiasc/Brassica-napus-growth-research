@@ -1,0 +1,154 @@
+{
+  "id": 1,
+  "data": {
+    "image": "/data/local-files/?d=workspace/dataset/BR017-093112_2018-06-23_00_VIS_sv_000-0-0-0.png"
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "result": [
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.307636186770424,
+            "y": 49.498981255093724,
+            "width": 2.2154669260700386,
+            "height": 1.921352893235534,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.74392023346304,
+            "y": 37.72799511002445,
+            "width": 2.7436770428015564,
+            "height": 1.1886715566422168,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 49.35432879377433,
+            "y": 41.53850855745721,
+            "width": 2.039396887159533,
+            "height": 1.4356153219233903,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 55.613326848249024,
+            "y": 32.521393643031786,
+            "width": 2.2062256809338523,
+            "height": 1.4991850040749795,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 42.68968871595331,
+            "y": 31.729013854930727,
+            "width": 2.3608949416342413,
+            "height": 1.182559087204564,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 51.8146887159533,
+            "y": 30.57599837000815,
+            "width": 2.4319066147859925,
+            "height": 1.493480032599837,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2056,
+          "original_height": 2454,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.01070038910506,
+            "y": 21.354115729421352,
+            "width": 2.7490272373540856,
+            "height": 1.2828035859820701,
+            "rotation": 0,
+            "rectanglelabels": [
+              "flower"
+            ]
+          },
+          "id": "ann_6",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ]
+    }
+  ],
+  "predictions": []
+}
