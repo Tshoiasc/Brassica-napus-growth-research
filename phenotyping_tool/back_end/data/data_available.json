@@ -1,0 +1,2132 @@
+[
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "RAGGED_JACK",
+        "plant_id": "BR017-209111"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "RAGGED_JACK",
+        "plant_id": "BR017-209121"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "Dwarf_Essex",
+        "plant_id": "BR017-193111"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "Dwarf_Essex",
+        "plant_id": "BR017-193121"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "Dwarf_Essex",
+        "plant_id": "BR017-193112"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "Dwarf_Essex",
+        "plant_id": "BR017-193122"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "RAGGED_JACK",
+        "plant_id": "BR017-209213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "RAGGED_JACK",
+        "plant_id": "BR017-209223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "RAGGED_JACK",
+        "plant_id": "BR017-209112"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "RAGGED_JACK",
+        "plant_id": "BR017-209122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LEMBKES_MALCHOWER_LENORA",
+        "plant_id": "BR017-108111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LEMBKES_MALCHOWER_LENORA",
+        "plant_id": "BR017-108121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SLAPSKA_SLAPY",
+        "plant_id": "BR017-212112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SLAPSKA_SLAPY",
+        "plant_id": "BR017-212122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dimension",
+        "plant_id": "BR017-514111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dimension",
+        "plant_id": "BR017-514121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabernet",
+        "plant_id": "BR017-509111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabernet",
+        "plant_id": "BR017-509121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SLAPSKA_SLAPY",
+        "plant_id": "BR017-212111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SLAPSKA_SLAPY",
+        "plant_id": "BR017-212121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SLAPSKA_SLAPY",
+        "plant_id": "BR017-212213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SLAPSKA_SLAPY",
+        "plant_id": "BR017-212223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LEMBKES_MALCHOWER_LENORA",
+        "plant_id": "BR017-108112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LEMBKES_MALCHOWER_LENORA",
+        "plant_id": "BR017-108122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LEMBKES_MALCHOWER_LENORA",
+        "plant_id": "BR017-108213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LEMBKES_MALCHOWER_LENORA",
+        "plant_id": "BR017-108223"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "Dwarf_Essex",
+        "plant_id": "BR017-193213"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "Dwarf_Essex",
+        "plant_id": "BR017-193223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "COUVE_NABICA",
+        "plant_id": "BR017-208213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "COUVE_NABICA",
+        "plant_id": "BR017-208223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "CHEMBERE_DZAGUMHANA",
+        "plant_id": "BR017-207121"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "CHEMBERE_DZAGUMHANA",
+        "plant_id": "BR017-207122"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "CHEMBERE_DZAGUMHANA",
+        "plant_id": "BR017-207111"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "CHEMBERE_DZAGUMHANA",
+        "plant_id": "BR017-207112"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "BRAUNER_SCHNITTKOHL",
+        "plant_id": "BR017-206213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "BRAUNER_SCHNITTKOHL",
+        "plant_id": "BR017-206223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "Taisetsu",
+        "plant_id": "BR017-203112"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "Taisetsu",
+        "plant_id": "BR017-203122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "ABUKUMA_NATANE",
+        "plant_id": "BR017-213112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "ABUKUMA_NATANE",
+        "plant_id": "BR017-213122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "NORIN",
+        "plant_id": "BR017-109112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "NORIN",
+        "plant_id": "BR017-109122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Vision",
+        "plant_id": "BR017-528212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Vision",
+        "plant_id": "BR017-528222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "NORIN",
+        "plant_id": "BR017-109213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "NORIN",
+        "plant_id": "BR017-109223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Kromerska",
+        "plant_id": "BR017-150223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Kromerska",
+        "plant_id": "BR017-150213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabernet",
+        "plant_id": "BR017-509212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabernet",
+        "plant_id": "BR017-509222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Temple",
+        "plant_id": "BR017-527212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Temple",
+        "plant_id": "BR017-527222"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "CHEMBERE_DZAGUMHANA",
+        "plant_id": "BR017-207213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "CHEMBERE_DZAGUMHANA",
+        "plant_id": "BR017-207223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "ABUKUMA_NATANE",
+        "plant_id": "BR017-213111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "ABUKUMA_NATANE",
+        "plant_id": "BR017-213121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "ABUKUMA_NATANE",
+        "plant_id": "BR017-213213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "ABUKUMA_NATANE",
+        "plant_id": "BR017-213223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabernet",
+        "plant_id": "BR017-509213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabernet",
+        "plant_id": "BR017-509223"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "Wilhelmsburger;_Reform",
+        "plant_id": "BR017-448111"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "Wilhelmsburger;_Reform",
+        "plant_id": "BR017-448121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Vision",
+        "plant_id": "BR017-528111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Vision",
+        "plant_id": "BR017-528121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Vision",
+        "plant_id": "BR017-528213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Vision",
+        "plant_id": "BR017-528223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "POH_285_Bolko",
+        "plant_id": "BR017-522111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "POH_285_Bolko",
+        "plant_id": "BR017-522121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Kromerska",
+        "plant_id": "BR017-150111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Kromerska",
+        "plant_id": "BR017-150121"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "COUVE_NABICA",
+        "plant_id": "BR017-208112"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "COUVE_NABICA",
+        "plant_id": "BR017-208122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Slovenska_Krajova",
+        "plant_id": "BR017-172112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Slovenska_Krajova",
+        "plant_id": "BR017-172122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Kromerska",
+        "plant_id": "BR017-150112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Kromerska",
+        "plant_id": "BR017-150122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Janetzkis_Schlesischer",
+        "plant_id": "BR017-107213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Huron_x_Navajo",
+        "plant_id": "BR017-517212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Huron_x_Navajo",
+        "plant_id": "BR017-517222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Baltia",
+        "plant_id": "BR017-133213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Baltia",
+        "plant_id": "BR017-133223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Apex",
+        "plant_id": "BR017-040213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Apex",
+        "plant_id": "BR017-040223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Xiangyou_15",
+        "plant_id": "BR017-529212"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Xiangyou_15",
+        "plant_id": "BR017-529222"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "Taisetsu",
+        "plant_id": "BR017-203121"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "Taisetsu",
+        "plant_id": "BR017-203111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "STELLAR_DH",
+        "plant_id": "BR017-239212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "STELLAR_DH",
+        "plant_id": "BR017-239222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Slovenska_Krajova",
+        "plant_id": "BR017-172111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Slovenska_Krajova",
+        "plant_id": "BR017-172121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Shengliyoucai",
+        "plant_id": "BR017-526212"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Shengliyoucai",
+        "plant_id": "BR017-526222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Palmedor",
+        "plant_id": "BR017-521212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Palmedor",
+        "plant_id": "BR017-521222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "NORIN",
+        "plant_id": "BR017-109111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "NORIN",
+        "plant_id": "BR017-109121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "N01D-1330",
+        "plant_id": "BR017-258212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "N01D-1330",
+        "plant_id": "BR017-258222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Lesira",
+        "plant_id": "BR017-102111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Lesira",
+        "plant_id": "BR017-102121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Lesira",
+        "plant_id": "BR017-102213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Lesira",
+        "plant_id": "BR017-102223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Janetzkis_Schlesischer",
+        "plant_id": "BR017-107111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Janetzkis_Schlesischer",
+        "plant_id": "BR017-107121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Janetzkis_Schlesischer",
+        "plant_id": "BR017-107223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Express 617",
+        "plant_id": "BR017-532212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Express 617",
+        "plant_id": "BR017-532222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Excalibur",
+        "plant_id": "BR017-515212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Excalibur",
+        "plant_id": "BR017-515222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "EUROL",
+        "plant_id": "BR017-101121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "EUROL",
+        "plant_id": "BR017-101213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "EUROL",
+        "plant_id": "BR017-101223"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "ERGLU",
+        "plant_id": "BR017-263212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "ERGLU",
+        "plant_id": "BR017-263222"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Duplo",
+        "plant_id": "BR017-275212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Duplo",
+        "plant_id": "BR017-275222"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "COUVE_NABICA",
+        "plant_id": "BR017-208121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Chuanyou_2",
+        "plant_id": "BR017-513212"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Chuanyou_2",
+        "plant_id": "BR017-513222"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Ceska_Krajova",
+        "plant_id": "BR017-274212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Ceska_Krajova",
+        "plant_id": "BR017-274222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Catana",
+        "plant_id": "BR017-512222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Catana",
+        "plant_id": "BR017-512212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabriolet",
+        "plant_id": "BR017-510222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabriolet",
+        "plant_id": "BR017-510212"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "BRAUNER_SCHNITTKOHL",
+        "plant_id": "BR017-206111"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "BRAUNER_SCHNITTKOHL",
+        "plant_id": "BR017-206121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Baltia",
+        "plant_id": "BR017-133111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Baltia",
+        "plant_id": "BR017-133121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Apex",
+        "plant_id": "BR017-040111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Apex",
+        "plant_id": "BR017-040121"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "Wilhelmsburger;_Reform",
+        "plant_id": "BR017-448222"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "Wilhelmsburger;_Reform",
+        "plant_id": "BR017-448212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Temple",
+        "plant_id": "BR017-527111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Temple",
+        "plant_id": "BR017-527121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Temple",
+        "plant_id": "BR017-527213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Temple",
+        "plant_id": "BR017-527223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "Taisetsu",
+        "plant_id": "BR017-203213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "Taisetsu",
+        "plant_id": "BR017-203223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_1",
+        "plant_id": "BR017-229213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_1",
+        "plant_id": "BR017-229223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Slovenska_Krajova",
+        "plant_id": "BR017-172213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Slovenska_Krajova",
+        "plant_id": "BR017-172223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SHANNON_x_WINNER_DH_LINE",
+        "plant_id": "BR017-106213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SHANNON_x_WINNER_DH_LINE",
+        "plant_id": "BR017-106223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Samourai",
+        "plant_id": "BR017-113121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Rocket",
+        "plant_id": "BR017-524111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Rocket",
+        "plant_id": "BR017-524121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Rocket",
+        "plant_id": "BR017-524222"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "RAPID_CYCLING_RAPE_CrGC5",
+        "plant_id": "BR017-221213"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "RAPID_CYCLING_RAPE_CrGC5",
+        "plant_id": "BR017-221223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Ramses",
+        "plant_id": "BR017-168213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Ramses",
+        "plant_id": "BR017-168223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Quinta",
+        "plant_id": "BR017-523212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Quinta",
+        "plant_id": "BR017-523222"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Liho",
+        "plant_id": "BR017-271212"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Liho",
+        "plant_id": "BR017-271222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LICROWN_X_EXPRESS_DH_LINE",
+        "plant_id": "BR017-105213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LICROWN_X_EXPRESS_DH_LINE",
+        "plant_id": "BR017-105223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Lesira",
+        "plant_id": "BR017-102112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Lesira",
+        "plant_id": "BR017-102122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Inca_x_Contact",
+        "plant_id": "BR017-518212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Inca_x_Contact",
+        "plant_id": "BR017-518222"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "HUGUENOT",
+        "plant_id": "BR017-410111"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "HUGUENOT",
+        "plant_id": "BR017-410121"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "HUGUENOT",
+        "plant_id": "BR017-410212"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "HUGUENOT",
+        "plant_id": "BR017-410222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "HANSEN_X_GASPARD_DH_LINE",
+        "plant_id": "BR017-096213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "HANSEN_X_GASPARD_DH_LINE",
+        "plant_id": "BR017-096223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "GROENE_GRONINGER_SNIJMOES",
+        "plant_id": "BR017-218213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "GROENE_GRONINGER_SNIJMOES",
+        "plant_id": "BR017-218223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Flash",
+        "plant_id": "BR017-516212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Flash",
+        "plant_id": "BR017-516222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Express 617",
+        "plant_id": "BR017-532111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Express 617",
+        "plant_id": "BR017-532121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Expert",
+        "plant_id": "BR017-055213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Expert",
+        "plant_id": "BR017-055223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Excalibur",
+        "plant_id": "BR017-515213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dippes",
+        "plant_id": "BR017-139213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dippes",
+        "plant_id": "BR017-139223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dimension",
+        "plant_id": "BR017-514212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Darmor_ET",
+        "plant_id": "BR017-531111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Darmor_ET",
+        "plant_id": "BR017-531121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Darmor_ET",
+        "plant_id": "BR017-531212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Darmor_ET",
+        "plant_id": "BR017-531213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Darmor_ET",
+        "plant_id": "BR017-531222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Darmor_ET",
+        "plant_id": "BR017-531223"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "COUVE_NABICA",
+        "plant_id": "BR017-208111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Coriander",
+        "plant_id": "BR017-137223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Coriander",
+        "plant_id": "BR017-137213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Capitol",
+        "plant_id": "BR017-028213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Capitol",
+        "plant_id": "BR017-028223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "CANBERRA_x_COURAGE_DH_LINE",
+        "plant_id": "BR017-093213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "CANBERRA_x_COURAGE_DH_LINE",
+        "plant_id": "BR017-093223"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "CANARD",
+        "plant_id": "BR017-185213"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "CANARD",
+        "plant_id": "BR017-185223"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Bronowski",
+        "plant_id": "BR017-273212"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Bronowski",
+        "plant_id": "BR017-273222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "APEX-93_5_X_GINYOU_3_DH_LINE",
+        "plant_id": "BR017-090213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "APEX-93_5_X_GINYOU_3_DH_LINE",
+        "plant_id": "BR017-090223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Apex",
+        "plant_id": "BR017-040112"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhouyou",
+        "plant_id": "BR017-237212"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhouyou",
+        "plant_id": "BR017-237222"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhongshuang_II",
+        "plant_id": "BR017-530212"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhongshuang_II",
+        "plant_id": "BR017-530222"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Xiangyou_15",
+        "plant_id": "BR017-529111"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "Wilhelmsburger;_Reform",
+        "plant_id": "BR017-448213"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "Wilhelmsburger;_Reform",
+        "plant_id": "BR017-448223"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "WESTAR_DH",
+        "plant_id": "BR017-240212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "WESTAR_DH",
+        "plant_id": "BR017-240213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "WESTAR_DH",
+        "plant_id": "BR017-240222"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "WESTAR_DH",
+        "plant_id": "BR017-240223"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Topas",
+        "plant_id": "BR017-283212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Topas",
+        "plant_id": "BR017-283213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Topas",
+        "plant_id": "BR017-283222"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Topas",
+        "plant_id": "BR017-283223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_2",
+        "plant_id": "BR017-230213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_2",
+        "plant_id": "BR017-230223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_1",
+        "plant_id": "BR017-229111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_1",
+        "plant_id": "BR017-229121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SHANNON_x_WINNER_DH_LINE",
+        "plant_id": "BR017-106111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SHANNON_x_WINNER_DH_LINE",
+        "plant_id": "BR017-106121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Samourai",
+        "plant_id": "BR017-113223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Samourai",
+        "plant_id": "BR017-113111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Samourai",
+        "plant_id": "BR017-113213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Rocket",
+        "plant_id": "BR017-524212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Rocket",
+        "plant_id": "BR017-524213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Rocket",
+        "plant_id": "BR017-524223"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "RAPID_CYCLING_RAPE_CrGC5",
+        "plant_id": "BR017-221111"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "RAPID_CYCLING_RAPE_CrGC5",
+        "plant_id": "BR017-221121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "RAFAL_DH1",
+        "plant_id": "BR017-098111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "RAFAL_DH1",
+        "plant_id": "BR017-098121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "RAFAL_DH1",
+        "plant_id": "BR017-098213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "RAFAL_DH1",
+        "plant_id": "BR017-098223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Quinta",
+        "plant_id": "BR017-523213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Quinta",
+        "plant_id": "BR017-523223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "POH_285_Bolko",
+        "plant_id": "BR017-522212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "POH_285_Bolko",
+        "plant_id": "BR017-522213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "POH_285_Bolko",
+        "plant_id": "BR017-522222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "POH_285_Bolko",
+        "plant_id": "BR017-522223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Ningyou_7",
+        "plant_id": "BR017-520212"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Ningyou_7",
+        "plant_id": "BR017-520222"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "MONTY-028DH",
+        "plant_id": "BR017-257212"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "MONTY-028DH",
+        "plant_id": "BR017-257213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "MONTY-028DH",
+        "plant_id": "BR017-257222"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "MONTY-028DH",
+        "plant_id": "BR017-257223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Matador",
+        "plant_id": "BR017-160111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Matador",
+        "plant_id": "BR017-160121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Matador",
+        "plant_id": "BR017-160213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Matador",
+        "plant_id": "BR017-160223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "MADRIGAL_x_RECITAL_DH_LINE",
+        "plant_id": "BR017-097111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "MADRIGAL_x_RECITAL_DH_LINE",
+        "plant_id": "BR017-097121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "MADRIGAL_x_RECITAL_DH_LINE",
+        "plant_id": "BR017-097213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "MADRIGAL_x_RECITAL_DH_LINE",
+        "plant_id": "BR017-097223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LICROWN_X_EXPRESS_DH_LINE",
+        "plant_id": "BR017-105111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LICROWN_X_EXPRESS_DH_LINE",
+        "plant_id": "BR017-105121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Huron_x_Navajo",
+        "plant_id": "BR017-517213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Huron_x_Navajo",
+        "plant_id": "BR017-517223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "HANSEN_X_GASPARD_DH_LINE",
+        "plant_id": "BR017-096111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "HANSEN_X_GASPARD_DH_LINE",
+        "plant_id": "BR017-096121"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "GROENE_GRONINGER_SNIJMOES",
+        "plant_id": "BR017-218111"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "GROENE_GRONINGER_SNIJMOES",
+        "plant_id": "BR017-218121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Flash",
+        "plant_id": "BR017-516213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Flash",
+        "plant_id": "BR017-516223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Expert",
+        "plant_id": "BR017-055111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Expert",
+        "plant_id": "BR017-055121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Excalibur",
+        "plant_id": "BR017-515223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "EUROL",
+        "plant_id": "BR017-101111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dippes",
+        "plant_id": "BR017-139111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dippes",
+        "plant_id": "BR017-139121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dimension",
+        "plant_id": "BR017-514213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dimension",
+        "plant_id": "BR017-514222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dimension",
+        "plant_id": "BR017-514223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Coriander",
+        "plant_id": "BR017-137111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Coriander",
+        "plant_id": "BR017-137121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Castille",
+        "plant_id": "BR017-511212"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Castille",
+        "plant_id": "BR017-511222"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Capitol",
+        "plant_id": "BR017-028111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Capitol",
+        "plant_id": "BR017-028121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "CANBERRA_x_COURAGE_DH_LINE",
+        "plant_id": "BR017-093111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "CANBERRA_x_COURAGE_DH_LINE",
+        "plant_id": "BR017-093121"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "CANARD",
+        "plant_id": "BR017-185121"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "CANARD",
+        "plant_id": "BR017-185111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Apex",
+        "plant_id": "BR017-040122"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhouyou",
+        "plant_id": "BR017-237111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhouyou",
+        "plant_id": "BR017-237121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhouyou",
+        "plant_id": "BR017-237213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhouyou",
+        "plant_id": "BR017-237223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhongshuang_II",
+        "plant_id": "BR017-530111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhongshuang_II",
+        "plant_id": "BR017-530121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Xiangyou_15",
+        "plant_id": "BR017-529121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "WESTAR_DH",
+        "plant_id": "BR017-240111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "WESTAR_DH",
+        "plant_id": "BR017-240121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Topas",
+        "plant_id": "BR017-283111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Topas",
+        "plant_id": "BR017-283121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_2",
+        "plant_id": "BR017-230111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_2",
+        "plant_id": "BR017-230121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "STELLAR_DH",
+        "plant_id": "BR017-239111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "STELLAR_DH",
+        "plant_id": "BR017-239121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Shengliyoucai",
+        "plant_id": "BR017-526111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Shengliyoucai",
+        "plant_id": "BR017-526121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Ramses",
+        "plant_id": "BR017-168111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Ramses",
+        "plant_id": "BR017-168121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Quinta",
+        "plant_id": "BR017-523111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Quinta",
+        "plant_id": "BR017-523121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Palmedor",
+        "plant_id": "BR017-521121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Palmedor",
+        "plant_id": "BR017-521111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Ningyou_7",
+        "plant_id": "BR017-520111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Ningyou_7",
+        "plant_id": "BR017-520121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "N01D-1330",
+        "plant_id": "BR017-258111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "N01D-1330",
+        "plant_id": "BR017-258121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "MONTY-028DH",
+        "plant_id": "BR017-257111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "MONTY-028DH",
+        "plant_id": "BR017-257121"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Liho",
+        "plant_id": "BR017-271223"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Liho",
+        "plant_id": "BR017-271111"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Liho",
+        "plant_id": "BR017-271121"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Liho",
+        "plant_id": "BR017-271213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Janetzkis_Schlesischer",
+        "plant_id": "BR017-107112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Janetzkis_Schlesischer",
+        "plant_id": "BR017-107122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Inca_x_Contact",
+        "plant_id": "BR017-518121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Inca_x_Contact",
+        "plant_id": "BR017-518111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Huron_x_Navajo",
+        "plant_id": "BR017-517111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Huron_x_Navajo",
+        "plant_id": "BR017-517121"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "HUGUENOT",
+        "plant_id": "BR017-410223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "HANSEN_X_GASPARD_DH_LINE",
+        "plant_id": "BR017-096112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "HANSEN_X_GASPARD_DH_LINE",
+        "plant_id": "BR017-096122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Flash",
+        "plant_id": "BR017-516121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Flash",
+        "plant_id": "BR017-516111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Expert",
+        "plant_id": "BR017-055112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Excalibur",
+        "plant_id": "BR017-515111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Excalibur",
+        "plant_id": "BR017-515121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "EUROL",
+        "plant_id": "BR017-101112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "EUROL",
+        "plant_id": "BR017-101122"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "ERGLU",
+        "plant_id": "BR017-263111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "ERGLU",
+        "plant_id": "BR017-263121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Duplo",
+        "plant_id": "BR017-275111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Duplo",
+        "plant_id": "BR017-275121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Chuanyou_2",
+        "plant_id": "BR017-513111"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Chuanyou_2",
+        "plant_id": "BR017-513121"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Ceska_Krajova",
+        "plant_id": "BR017-274111"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Ceska_Krajova",
+        "plant_id": "BR017-274121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Catana",
+        "plant_id": "BR017-512111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Catana",
+        "plant_id": "BR017-512121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Castille",
+        "plant_id": "BR017-511111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Castille",
+        "plant_id": "BR017-511121"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabriolet",
+        "plant_id": "BR017-510111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabriolet",
+        "plant_id": "BR017-510121"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Bronowski",
+        "plant_id": "BR017-273111"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Bronowski",
+        "plant_id": "BR017-273121"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "BRAUNER_SCHNITTKOHL",
+        "plant_id": "BR017-206112"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "BRAUNER_SCHNITTKOHL",
+        "plant_id": "BR017-206122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Baltia",
+        "plant_id": "BR017-133112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Baltia",
+        "plant_id": "BR017-133122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "APEX-93_5_X_GINYOU_3_DH_LINE",
+        "plant_id": "BR017-090111"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "APEX-93_5_X_GINYOU_3_DH_LINE",
+        "plant_id": "BR017-090121"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhongshuang_II",
+        "plant_id": "BR017-530213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Zhongshuang_II",
+        "plant_id": "BR017-530223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Xiangyou_15",
+        "plant_id": "BR017-529213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Samourai",
+        "plant_id": "BR017-113112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Samourai",
+        "plant_id": "BR017-113122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Ramses",
+        "plant_id": "BR017-168112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Ramses",
+        "plant_id": "BR017-168122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Palmedor",
+        "plant_id": "BR017-521213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Palmedor",
+        "plant_id": "BR017-521223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Ningyou_7",
+        "plant_id": "BR017-520213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Ningyou_7",
+        "plant_id": "BR017-520223"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "N01D-1330",
+        "plant_id": "BR017-258213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "N01D-1330",
+        "plant_id": "BR017-258223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Inca_x_Contact",
+        "plant_id": "BR017-518213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Inca_x_Contact",
+        "plant_id": "BR017-518223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Express 617",
+        "plant_id": "BR017-532213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Express 617",
+        "plant_id": "BR017-532223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Expert",
+        "plant_id": "BR017-055122"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "ERGLU",
+        "plant_id": "BR017-263213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Coriander",
+        "plant_id": "BR017-137112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Coriander",
+        "plant_id": "BR017-137122"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Chuanyou_2",
+        "plant_id": "BR017-513213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Chuanyou_2",
+        "plant_id": "BR017-513223"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Ceska_Krajova",
+        "plant_id": "BR017-274213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Ceska_Krajova",
+        "plant_id": "BR017-274223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Catana",
+        "plant_id": "BR017-512223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Catana",
+        "plant_id": "BR017-512213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Castille",
+        "plant_id": "BR017-511213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Castille",
+        "plant_id": "BR017-511223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabriolet",
+        "plant_id": "BR017-510213"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Cabriolet",
+        "plant_id": "BR017-510223"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Bronowski",
+        "plant_id": "BR017-273213"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "Bronowski",
+        "plant_id": "BR017-273223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Xiangyou_15",
+        "plant_id": "BR017-529223"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_2",
+        "plant_id": "BR017-230112"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_2",
+        "plant_id": "BR017-230122"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_1",
+        "plant_id": "BR017-229112"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "SWU_Chinese_1",
+        "plant_id": "BR017-229122"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Shengliyoucai",
+        "plant_id": "BR017-526213"
+    },
+    {
+        "crop_type": "Semiwinter OSR",
+        "geno_type": "Shengliyoucai",
+        "plant_id": "BR017-526223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SHANNON_x_WINNER_DH_LINE",
+        "plant_id": "BR017-106112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "SHANNON_x_WINNER_DH_LINE",
+        "plant_id": "BR017-106122"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "RAPID_CYCLING_RAPE_CrGC5",
+        "plant_id": "BR017-221112"
+    },
+    {
+        "crop_type": "Spring fodder",
+        "geno_type": "RAPID_CYCLING_RAPE_CrGC5",
+        "plant_id": "BR017-221122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "RAFAL_DH1",
+        "plant_id": "BR017-098112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "RAFAL_DH1",
+        "plant_id": "BR017-098122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Matador",
+        "plant_id": "BR017-160112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Matador",
+        "plant_id": "BR017-160122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "MADRIGAL_x_RECITAL_DH_LINE",
+        "plant_id": "BR017-097112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "MADRIGAL_x_RECITAL_DH_LINE",
+        "plant_id": "BR017-097122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LICROWN_X_EXPRESS_DH_LINE",
+        "plant_id": "BR017-105112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "LICROWN_X_EXPRESS_DH_LINE",
+        "plant_id": "BR017-105122"
+    },
+    {
+        "crop_type": "Swede",
+        "geno_type": "HUGUENOT",
+        "plant_id": "BR017-410213"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "GROENE_GRONINGER_SNIJMOES",
+        "plant_id": "BR017-218112"
+    },
+    {
+        "crop_type": "Leafy vegetable",
+        "geno_type": "GROENE_GRONINGER_SNIJMOES",
+        "plant_id": "BR017-218122"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "ERGLU",
+        "plant_id": "BR017-263223"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Duplo",
+        "plant_id": "BR017-275213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "Duplo",
+        "plant_id": "BR017-275223"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dippes",
+        "plant_id": "BR017-139112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Dippes",
+        "plant_id": "BR017-139122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Capitol",
+        "plant_id": "BR017-028112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "Capitol",
+        "plant_id": "BR017-028122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "CANBERRA_x_COURAGE_DH_LINE",
+        "plant_id": "BR017-093112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "CANBERRA_x_COURAGE_DH_LINE",
+        "plant_id": "BR017-093122"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "CANARD",
+        "plant_id": "BR017-185112"
+    },
+    {
+        "crop_type": "Winter fodder",
+        "geno_type": "CANARD",
+        "plant_id": "BR017-185122"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "APEX-93_5_X_GINYOU_3_DH_LINE",
+        "plant_id": "BR017-090112"
+    },
+    {
+        "crop_type": "Winter OSR",
+        "geno_type": "APEX-93_5_X_GINYOU_3_DH_LINE",
+        "plant_id": "BR017-090122"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "STELLAR_DH",
+        "plant_id": "BR017-239213"
+    },
+    {
+        "crop_type": "Spring OSR",
+        "geno_type": "STELLAR_DH",
+        "plant_id": "BR017-239223"
+    }
+]
