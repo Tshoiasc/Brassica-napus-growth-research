@@ -6,6 +6,8 @@
 
 This repository contains the source code for **Brassica Napus Phenotyping**, a comprehensive deep learning-based system that automates the detection, tracking, and analysis of Brassica napus inflorescence. This project leverages state-of-the-art algorithms to provide insights into plant growth patterns and phenotypic traits.
 
+<img width="1072" alt="homepage" src="https://github.com/user-attachments/assets/4f53eefe-86f6-4669-b574-cc1508ffa85d">
+
 ## 🗂️ Project Structure
 
 ```bash
