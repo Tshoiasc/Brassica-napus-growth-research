@@ -44,7 +44,7 @@ back-end: Server-side logic for processing phenotypic data and interacting with 
 Clone the repository:
 
 
-git clone https://github.com/your-username/brassica_napus_phenotyping_tool.git
+git clone https://github.com/Tshoiasc/Brassica-napus-growth-research.git
 Install the required dependencies:
 
 
