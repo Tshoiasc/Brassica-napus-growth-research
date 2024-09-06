@@ -1,0 +1,6 @@
+annotation/label-studio/label-studio-dataset/export/*.json
+annotation/label-studio/label-studio-dataset/label_studio.sqlite3
+models/SmaAt+GAN/*.pth
+models/SmaAt+GAN/DCGAN-T/*.pth
+models/SmaAt+GAN/weight_*/*.pth
+data/data processing/jo/bud_boxes_data.xlsx
