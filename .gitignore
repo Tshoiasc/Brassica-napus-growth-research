@@ -4,4 +4,3 @@ models/SmaAt+GAN/*.pth
 models/SmaAt+GAN/DCGAN-T/*.pth
 models/SmaAt+GAN/weight_*/*.pth
 data/data processing/jo/bud_boxes_data.xlsx
-annotation/label-studio-ml-backend/
