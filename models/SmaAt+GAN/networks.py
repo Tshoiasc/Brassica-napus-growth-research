@@ -7,23 +7,23 @@ device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cp
 #     def __init__(self, in_channels=20, img_size=256):
 #         super(Discriminator, self).__init__()
 #         self.conv_layers = nn.Sequential(
-#             # 输入大小: [1, 20, 256, 256]
+#             # input size: [1, 20, 256, 256]
 #             nn.Conv2d(in_channels, 32, kernel_size=4, stride=2, padding=1),
 #             nn.BatchNorm2d(32),
 #             nn.LeakyReLU(0.2, inplace=True),
-#             # 大小: [1, 32, 128, 128]
+#             # size: [1, 32, 128, 128]
 #             nn.Conv2d(32, 64, kernel_size=4, stride=2, padding=1),
 #             nn.BatchNorm2d(64),
 #             nn.LeakyReLU(0.2, inplace=True),
-#             # 大小: [1, 64, 64, 64]
+#             # size: [1, 64, 64, 64]
 #             nn.Conv2d(64, 32, kernel_size=4, stride=2, padding=1),
 #             nn.BatchNorm2d(32),
 #             nn.LeakyReLU(0.2, inplace=True),
-#             # 大小: [1, 64, 32, 32]
+#             # size: [1, 64, 32, 32]
 #             nn.Conv2d(32, 8, kernel_size=4, stride=2, padding=1),
 #             nn.BatchNorm2d(8),
 #             nn.LeakyReLU(0.2, inplace=True)
-#             # 大小: [1, 64, 16, 16]
+#             # size: [1, 64, 16, 16]
 #         )
 #         self.fc_layers = nn.Sequential(
 #             nn.Linear(8 * 16 * 16, 128),

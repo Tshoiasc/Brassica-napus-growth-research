@@ -1,4 +1,4 @@
-from data_process.data_loader import Radar_Dataset
+from data_process.data_loader import PlantImage_Dataset
 from torch.utils.data import DataLoader
 import torch
 from models.SmaAt_UNet import SmaAt_UNet
@@ -16,22 +16,22 @@ def weights_init(m):
             nn.init.constant_(m.bias.data, 0)
 
 def train_model():
-    # 设置设备
+    # Set device
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
-    # 参数设置
-    path_radars = 'plant_generate/'
+    # Parameter settings
+    path_plant_images = 'plant_generate/'
     path_Model_Save_model_paras_ori = 'best_generator.pth'
     path_discriminator_paras_ori = 'best_discriminator.pth'
     n_channels_ori = 5
     n_classes = 20
     p_valid = 1
-    num_workers = 4  # 提高数据加载效率
-    lr_G = 0.0001  # 生成器学习率
-    lr_D = 0.0004  # 判别器学习率
-    batch_size = 24  # 增加批量大小
+    num_workers = 4  # Increase data loading efficiency
+    lr_G = 0.0001  # Generator learning rate
+    lr_D = 0.0004  # Discriminator learning rate
+    batch_size = 24  # Increase batch size
 
-    # 初始化生成器和判别器
+    # Initialize generator and discriminator
     generator = SmaAt_UNet(n_channels=n_channels_ori, n_classes=n_classes).to(device)
     generator.load_state_dict(torch.load(path_Model_Save_model_paras_ori, map_location=lambda storage, loc: storage))
     discriminator = Discriminator().to(device)
@@ -40,38 +40,38 @@ def train_model():
     generator.apply(weights_init)
     discriminator.apply(weights_init)
 
-    # 定义损失函数和优化器
+    # Define loss functions and optimizers
     criterion = torch.nn.BCELoss().to(device)
     mse_loss = torch.nn.MSELoss().to(device)
     optimizer_G = torch.optim.Adam(generator.parameters(), lr=lr_G, betas=(0.5, 0.999))
     optimizer_D = torch.optim.Adam(discriminator.parameters(), lr=lr_D, betas=(0.5, 0.999))
 
-    # 使用调度器动态调整学习率
+    # Use schedulers to adjust learning rates dynamically
     scheduler_G = torch.optim.lr_scheduler.StepLR(optimizer_G, step_size=30, gamma=0.1)
     scheduler_D = torch.optim.lr_scheduler.StepLR(optimizer_D, step_size=30, gamma=0.1)
 
-    # 加载数据
-    radar_dataset_train = Radar_Dataset('train', path_data=path_radars)
-    dataloader_train = DataLoader(radar_dataset_train, batch_size=batch_size, shuffle=True, num_workers=num_workers)  # shuffle=True
-    radar_dataset_valid = Radar_Dataset('valid', path_data=path_radars)
-    dataloader_valid = DataLoader(radar_dataset_valid, batch_size=batch_size, shuffle=False, num_workers=num_workers)
+    # Load data
+    plant_image_dataset_train = PlantImage_Dataset('train', path_data=path_plant_images)
+    dataloader_train = DataLoader(plant_image_dataset_train, batch_size=batch_size, shuffle=True, num_workers=num_workers)  # shuffle=True
+    plant_image_dataset_valid = PlantImage_Dataset('valid', path_data=path_plant_images)
+    dataloader_valid = DataLoader(plant_image_dataset_valid, batch_size=batch_size, shuffle=False, num_workers=num_workers)
 
-    # 定义训练过程
+    # Define training parameters
     num_epochs = 100
     real_label = 1
     fake_label = 0
-    patience = 10  # 减少耐心值，加速早停
+    patience = 10  # Reduce patience value to accelerate early stopping
 
-    # 创建保存结果的txt文件
+    # Create a txt file to save results
     with open('loss_results.txt', 'w') as f:
         f.write('Weight\tBCE_Loss\tMSE_Loss\n')
 
-    # 记录最优BCE Loss和对应的模型
+    # Record the best BCE Loss and corresponding models
     best_global_bce_loss = float('inf')
     best_global_generator_state = None
     best_global_discriminator_state = None
 
-    # 训练
+    # Training
     print("Starting Training Loop...")
 
     for weight in np.arange(0.01, 0.51, 0.01):
@@ -86,7 +86,7 @@ def train_model():
             discriminator.train()
             i = 0
             for inputs, targets in dataloader_train:
-                # 更新判别器
+                # Update discriminator
                 inputs = inputs.to(device)
                 targets = targets.to(device)
                 discriminator.zero_grad()
@@ -108,7 +108,7 @@ def train_model():
                 D_x = output_real.mean().item()
                 D_G_z1 = output_fake.mean().item()
 
-                # 更新生成器
+                # Update generator
                 generator.zero_grad()
                 output = discriminator(fake).view(-1)
                 errG = (weight) * criterion(output, label_real) + (1 - weight) * mse_loss(fake, targets)
@@ -119,7 +119,7 @@ def train_model():
 
                 i += 1
 
-            # 验证阶段
+            # Validation phase
             generator.eval()
             val_bce_loss = 0.0
             val_mse_loss = 0.0
@@ -138,17 +138,17 @@ def train_model():
             val_mse_loss /= len(dataloader_valid)
             val_loss = (1 - weight) * val_bce_loss + (weight) * val_mse_loss
 
-            # 保存最优模型和损失值
+            # Save the best model and loss values
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 best_val_bce_loss = val_bce_loss
                 best_generator_state = generator.state_dict()
                 best_discriminator_state = discriminator.state_dict()
-                # 创建文件夹
+                # Create folder
                 weight_folder = f'weight_{weight:.2f}'
                 os.makedirs(weight_folder, exist_ok=True)
-                torch.save(best_generator_state, weight_folder + '/' + 'best_generator.pth')
-                torch.save(best_discriminator_state, weight_folder + '/' + 'best_discriminator.pth')
+                torch.save(best_generator_state, os.path.join(weight_folder, 'best_generator.pth'))
+                torch.save(best_discriminator_state, os.path.join(weight_folder, 'best_discriminator.pth'))
                 epochs_no_improve = 0
                 print(f'Current weight: {weight:.2f} - Validation BCE Loss: {val_bce_loss:.4f} MSE Loss: {val_mse_loss:.4f} Weighted Loss: {val_loss:.4f}')
                 with open('loss_results.txt', 'a') as f:
@@ -156,22 +156,22 @@ def train_model():
             else:
                 epochs_no_improve += 1
 
-            # 早停机制
+            # Early stopping mechanism
             if epochs_no_improve >= patience:
                 print(f'Early stopping at epoch {epoch + 1} for weight {weight:.2f}')
                 break
 
-            # 更新全局最优模型
+            # Update global best model
             if best_val_bce_loss < best_global_bce_loss:
                 best_global_bce_loss = best_val_bce_loss
                 best_global_generator_state = best_generator_state
                 best_global_discriminator_state = best_discriminator_state
 
-        # 调整学习率
+        # Adjust learning rates
         scheduler_G.step()
         scheduler_D.step()
 
-    # 保存最终最优模型
+    # Save the final best global models
     if best_global_generator_state and best_global_discriminator_state:
         torch.save(best_global_generator_state, 'best_generator_global.pth')
         torch.save(best_global_discriminator_state, 'best_discriminator_global.pth')
