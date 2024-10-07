@@ -8,6 +8,9 @@ This repository contains the source code for **Brassica Napus Phenotyping**, a c
 
 <img width="1072" alt="homepage" src="https://github.com/user-attachments/assets/4f53eefe-86f6-4669-b574-cc1508ffa85d">
 
+<img width="3309" alt="未标题-6" src="https://github.com/user-attachments/assets/4735225e-da1c-479c-bfb5-318a18eb853c">
+
+
 ## 🗂️ Project Structure
 
 ```bash
