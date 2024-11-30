@@ -1,4 +1,4 @@
-# 🌿 Brassica Napus Phenotyping Tool
+# 🌿 Brassica Napus Phenotyping Research <sub>(Grade 92/100 by Durham University)</sub>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)](https://www.python.org/)
